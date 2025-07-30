@@ -1,4 +1,7 @@
-# Arduino-Project---Dual-PID-Control-system
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue?logo=arduino)
+![PID](https://img.shields.io/badge/Control-PID-green)
+![SolidWorks](https://img.shields.io/badge/3D%20Design-SolidWorks-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)# Arduino-Project---Dual-PID-Control-system
 
 This project implements **two interacting PID controllers** in a robotic system: one for maintaining balance and another for controlling distance from a wall. The combination of these two control loops allows the robot to **actively stabilize itself while following a set distance**, making it a unique integration of dual PID systems in one platform.
 
